@@ -50,10 +50,8 @@ class FlashScoreWorldCupScraper:
             detailsRow = season.find(class_='archive__text--clickable')
             detailsLink = 'https://www.flashscore.pl' + detailsRow['href'] + 'wyniki'
             worldCupName = self.__clear_text(detailsRow.text)
-
-            if (worldCupName == 'Mistrzostwa Świata 1982'):
-                matches = self.__get_season_matches(detailsLink)
-                seasons.append(Season(name=worldCupName, matches=matches))
+            matches = self.__get_season_matches(detailsLink)
+            seasons.append(Season(name=worldCupName, matches=matches))
 
         return WorldCup(seasons=seasons)
 
@@ -61,7 +59,6 @@ class FlashScoreWorldCupScraper:
 def main():
     worldCupScraper = FlashScoreWorldCupScraper()
     worldCupData = worldCupScraper.scrapWorldCupData()
-    # print(worldCupData)
     save_data(worldCupData, 'test')
 
 
