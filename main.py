@@ -8,11 +8,6 @@ class FlashScoreWorldCupScraper:
 
     driver = WebDriver()
 
-    def __clear_text(self, text):
-        regex = re.compile(r"[\n\r\t:]")
-        clear_text = regex.sub(" ", text)
-        return clear_text.strip()
-
     def __world_cup_page_source(self):
         return self.driver.renderPage("https://www.flashscore.pl/pilka-nozna/swiat/mistrzostwa-swiata/archiwum/")
 
@@ -24,8 +19,8 @@ class FlashScoreWorldCupScraper:
         scores = matchDetails.find_all(class_='event__score')
         firstTeam = Team(name=participants[0].text)
         secondTeam = Team(name=participants[1].text)
-        firstTeamResult = MatchResult(team=firstTeam, score=scores[0].text)
-        secondTeamResult = MatchResult(team=secondTeam, score=scores[1].text)
+        firstTeamResult = MatchResult(team=firstTeam, score=int(scores[0].text))
+        secondTeamResult = MatchResult(team=secondTeam, score=int(scores[1].text))
         return Match(firstTeam=firstTeamResult, secondTeam=secondTeamResult)
 
     def __get_season_matches(self, seasonDetailsLink: str):
@@ -49,7 +44,7 @@ class FlashScoreWorldCupScraper:
         for season in self.__word_cup_seasons():
             detailsRow = season.find(class_='archive__text--clickable')
             detailsLink = 'https://www.flashscore.pl' + detailsRow['href'] + 'wyniki'
-            worldCupName = self.__clear_text(detailsRow.text)
+            worldCupName = detailsRow.text.strip()
             matches = self.__get_season_matches(detailsLink)
             seasons.append(Season(name=worldCupName, matches=matches))
 
