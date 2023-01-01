@@ -1,0 +1,336 @@
+1. Brazylia
+Games: 113
+Rating: 1103.3315322293802
+----------------
+2. Niemcy
+Games: 112
+Rating: 1085.5586713921712
+----------------
+3. Włochy
+Games: 83
+Rating: 1056.1325065378553
+----------------
+4. Argentyna
+Games: 85
+Rating: 1049.4540838069086
+----------------
+5. Holandia
+Games: 54
+Rating: 1037.8856199536203
+----------------
+6. Francja
+Games: 70
+Rating: 1032.7018224269987
+----------------
+7. Anglia
+Games: 73
+Rating: 1025.7746512535314
+----------------
+8. Hiszpania
+Games: 67
+Rating: 1021.8155442186307
+----------------
+9. Portugalia
+Games: 34
+Rating: 1017.0793112962054
+----------------
+10. Urugwaj
+Games: 59
+Rating: 1016.8031042672817
+----------------
+11. Chorwacja
+Games: 27
+Rating: 1016.52499912907
+----------------
+12. ZSRR
+Games: 31
+Rating: 1014.1538048338363
+----------------
+13. Polska
+Games: 38
+Rating: 1011.0975971803954
+----------------
+14. Jugosławia
+Games: 37
+Rating: 1010.5812388864483
+----------------
+15. Szwecja
+Games: 51
+Rating: 1008.1942543024751
+----------------
+16. Węgry
+Games: 32
+Rating: 1007.6979063733992
+----------------
+17. Turcja
+Games: 10
+Rating: 1003.5082453503416
+----------------
+18. Belgia
+Games: 51
+Rating: 1003.1624147042487
+----------------
+19. Austria
+Games: 29
+Rating: 1003.0772628855019
+----------------
+20. Senegal
+Games: 12
+Rating: 1002.7175240185956
+----------------
+21. Ukraina
+Games: 5
+Rating: 1002.4740225844348
+----------------
+22. Dania
+Games: 23
+Rating: 1002.1911607068192
+----------------
+23. Niemiecka Republika Demokratyczna
+Games: 6
+Rating: 1001.5562318951733
+----------------
+24. Kuba
+Games: 3
+Rating: 1000.0476288451732
+----------------
+25. Czechosłowacja
+Games: 30
+Rating: 999.5125480590092
+----------------
+26. Irlandia
+Games: 13
+Rating: 998.6100390518998
+----------------
+27. Norwegia
+Games: 8
+Rating: 998.3306742323737
+----------------
+28. Republika Południowej Afryki
+Games: 9
+Rating: 997.8641336382276
+----------------
+29. Ekwador
+Games: 13
+Rating: 997.8476986263039
+----------------
+30. Izrael
+Games: 3
+Rating: 997.7885263722931
+----------------
+31. Jamajka
+Games: 3
+Rating: 997.7201960694259
+----------------
+32. Słowacja
+Games: 4
+Rating: 997.6692515392784
+----------------
+33. Dutch East Indies
+Games: 1
+Rating: 997.5389674252771
+----------------
+34. Czechy
+Games: 3
+Rating: 997.5099660661306
+----------------
+35. Bośnia i Hercegowina
+Games: 3
+Rating: 997.5023720843408
+----------------
+36. Angola
+Games: 3
+Rating: 997.4905933593277
+----------------
+37. Irlandia Północna
+Games: 13
+Rating: 997.4069967128568
+----------------
+38. Paragwaj
+Games: 27
+Rating: 996.3246155852952
+----------------
+39. Rumunia
+Games: 21
+Rating: 996.0038524812079
+----------------
+40. Walia
+Games: 8
+Rating: 995.8336535205343
+----------------
+41. Wybrzeże Kości Słoniowej
+Games: 9
+Rating: 995.5921838685249
+----------------
+42. Kuwejt
+Games: 3
+Rating: 995.4699736091289
+----------------
+43. Rosja
+Games: 14
+Rating: 995.4155695936919
+----------------
+44. Islandia
+Games: 3
+Rating: 995.1235842811953
+----------------
+45. Trinidad i Tobago
+Games: 3
+Rating: 995.1209504805149
+----------------
+46. Kolumbia
+Games: 22
+Rating: 994.9346649589563
+----------------
+47. Ghana
+Games: 15
+Rating: 993.348694431955
+----------------
+48. Haiti
+Games: 3
+Rating: 993.238963068903
+----------------
+49. DR Kongo
+Games: 3
+Rating: 993.0347888729553
+----------------
+50. Zjednoczone Emiraty Arabskie
+Games: 3
+Rating: 992.9444787404744
+----------------
+51. Nowa Zelandia
+Games: 6
+Rating: 992.9141012312712
+----------------
+52. Serbia and Montenegro
+Games: 3
+Rating: 992.9069321281769
+----------------
+53. Chiny
+Games: 3
+Rating: 992.7750181181262
+----------------
+54. Panama
+Games: 3
+Rating: 992.6604086992801
+----------------
+55. Irak
+Games: 3
+Rating: 992.6526236560591
+----------------
+56. Chile
+Games: 33
+Rating: 992.646377200232
+----------------
+57. Słowenia
+Games: 6
+Rating: 992.6449323658758
+----------------
+58. Togo
+Games: 3
+Rating: 992.6177488972188
+----------------
+59. Katar
+Games: 3
+Rating: 992.5539658531325
+----------------
+60. Kostaryka
+Games: 21
+Rating: 991.9283530790051
+----------------
+61. Algieria
+Games: 13
+Rating: 991.6446606232306
+----------------
+62. Maroko
+Games: 20
+Rating: 991.3832449304344
+----------------
+63. Szwajcaria
+Games: 41
+Rating: 991.3363303277621
+----------------
+64. Korea Północna
+Games: 7
+Rating: 990.7404448003732
+----------------
+65. Peru
+Games: 18
+Rating: 990.3683625807843
+----------------
+66. Serbia
+Games: 9
+Rating: 990.3540736623797
+----------------
+67. Boliwia
+Games: 6
+Rating: 988.8374948535973
+----------------
+68. Egipt
+Games: 7
+Rating: 988.1644618204048
+----------------
+69. Grecja
+Games: 10
+Rating: 987.7355701127191
+----------------
+70. Nigeria
+Games: 21
+Rating: 987.2076263730723
+----------------
+71. Honduras
+Games: 9
+Rating: 985.8818969013885
+----------------
+72. Salwador
+Games: 6
+Rating: 985.7121694399957
+----------------
+73. Kanada
+Games: 6
+Rating: 985.5400642787265
+----------------
+74. Japonia
+Games: 25
+Rating: 984.2209157969537
+----------------
+75. Tunezja
+Games: 18
+Rating: 983.9746146789852
+----------------
+76. Szkocja
+Games: 23
+Rating: 983.8327924356653
+----------------
+77. Kamerun
+Games: 26
+Rating: 983.8043904022805
+----------------
+78. Australia
+Games: 20
+Rating: 981.9241042350174
+----------------
+79. Iran
+Games: 18
+Rating: 981.3621039522319
+----------------
+80. Arabia Saudyjska
+Games: 19
+Rating: 979.7330120364587
+----------------
+81. USA
+Games: 37
+Rating: 977.3144608989626
+----------------
+82. Bułgaria
+Games: 26
+Rating: 976.6740630042661
+----------------
+83. Meksyk
+Games: 60
+Rating: 974.6357857359952
+----------------
+84. Korea Południowa
+Games: 38
+Rating: 972.6178190813584
+----------------

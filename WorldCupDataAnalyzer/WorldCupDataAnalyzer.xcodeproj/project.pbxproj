@@ -15,6 +15,9 @@
 		92FAD35A2940DE920093177E /* Team.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92FAD3592940DE920093177E /* Team.swift */; };
 		92FAD3642940E1180093177E /* data.bundle in CopyFiles */ = {isa = PBXBuildFile; fileRef = 92FAD3602940E0FB0093177E /* data.bundle */; };
 		92FAD3682940E4050093177E /* worldCupData.json in Resources */ = {isa = PBXBuildFile; fileRef = 92FAD3672940E4050093177E /* worldCupData.json */; };
+		92FAD36B2940E52A0093177E /* EloPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92FAD36A2940E52A0093177E /* EloPlayer.swift */; };
+		92FAD36D2940E6940093177E /* EloAlgorithm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92FAD36C2940E6940093177E /* EloAlgorithm.swift */; };
+		92FAD36F2940E7380093177E /* Array+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92FAD36E2940E7380093177E /* Array+Ext.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -40,6 +43,9 @@
 		92FAD3592940DE920093177E /* Team.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Team.swift; sourceTree = "<group>"; };
 		92FAD3602940E0FB0093177E /* data.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = data.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		92FAD3672940E4050093177E /* worldCupData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = worldCupData.json; path = ../../worldCupData.json; sourceTree = "<group>"; };
+		92FAD36A2940E52A0093177E /* EloPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EloPlayer.swift; sourceTree = "<group>"; };
+		92FAD36C2940E6940093177E /* EloAlgorithm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EloAlgorithm.swift; sourceTree = "<group>"; };
+		92FAD36E2940E7380093177E /* Array+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Array+Ext.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +88,8 @@
 			children = (
 				92FAD3672940E4050093177E /* worldCupData.json */,
 				92FAD3492940DE0B0093177E /* main.swift */,
+				92FAD36E2940E7380093177E /* Array+Ext.swift */,
+				92FAD3692940E5040093177E /* EloAlgorithm */,
 				92FAD3502940DE110093177E /* Models */,
 			);
 			path = WorldCupDataAnalyzer;
@@ -97,6 +105,15 @@
 				92FAD3592940DE920093177E /* Team.swift */,
 			);
 			path = Models;
+			sourceTree = "<group>";
+		};
+		92FAD3692940E5040093177E /* EloAlgorithm */ = {
+			isa = PBXGroup;
+			children = (
+				92FAD36A2940E52A0093177E /* EloPlayer.swift */,
+				92FAD36C2940E6940093177E /* EloAlgorithm.swift */,
+			);
+			path = EloAlgorithm;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -192,7 +209,10 @@
 				92FAD35A2940DE920093177E /* Team.swift in Sources */,
 				92FAD3542940DE3C0093177E /* WorldCupSeason.swift in Sources */,
 				92FAD34A2940DE0B0093177E /* main.swift in Sources */,
+				92FAD36B2940E52A0093177E /* EloPlayer.swift in Sources */,
+				92FAD36D2940E6940093177E /* EloAlgorithm.swift in Sources */,
 				92FAD3522940DE240093177E /* WorldCup.swift in Sources */,
+				92FAD36F2940E7380093177E /* Array+Ext.swift in Sources */,
 				92FAD3562940DE550093177E /* Match.swift in Sources */,
 				92FAD3582940DE7D0093177E /* MatchResult.swift in Sources */,
 			);
