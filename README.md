@@ -1,9 +1,11 @@
-# Projekt wykonany w ramach przedmitu "Hurtownie danych"
+# ELO World Cup Rankings [Archived]
 
-### Repozytorwium zawiera:
+Project Completed as Part of the "Data Warehouses" Course
 
-1. Scraper napisany w języku python, który zbiera informacje o wynikach meczów mistrzostw świata od 1930 roku (tylko fazy grupowe i pucharowe). 
-Zebrane dane zawiera plik "worldCupData.json".
+### The repository contains:
 
-2. Program napisany w języku swift, który na podstawie zebranych danych tworzy ranking krajów uzywając algorytmu ELO.
-Przykładowy ranking dla stałej algorytmu 5, znajduje się w pliku "Result for constant 5.txt".
+1. A scraper written in Python that collects information about the World Cup match results starting from 1930 (only group and knockout stages).  
+   The collected data is stored in the file **"worldCupData.json"**.
+
+2. A program written in Swift that, based on the collected data, generates a country ranking using the **ELO algorithm**.  
+   An example ranking for the algorithm constant 5 is stored in the file **"Result for constant 5.txt"**.
